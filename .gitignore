@@ -1,0 +1,38 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Ignore package distributions
+*.egg-info/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables and credentials
+.env
+*.env
+test.py
+
+# Database and data files
+*.sqlite3
+*.db
+*.csv
+*.json
+.qodo
